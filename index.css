@@ -3,10 +3,11 @@
   padding: 0;
 }
 
-img{
-  align-items: center;
+body{
+  text-align: center;
 }
 
-.introduction{
-  text-align: center;
+img{
+  width: 128px;
+  height:128px;
 }
